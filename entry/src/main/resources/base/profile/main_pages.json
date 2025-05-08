@@ -1,6 +1,10 @@
 {
   "src": [
+    "pages/Splash",
     "pages/Index",
-    "pages/Login"
+    "pages/Login",
+    "pages/Register",
+    "pages/ResetPassword",
+    "pages/Agreement"
   ]
 }
